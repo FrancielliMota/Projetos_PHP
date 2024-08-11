@@ -2,9 +2,9 @@
 
 <?php require("cabecalho.php"); ?>
 
-<h1>Exercício 1</h1>
-
 <form action="exer1.php" method="POST">
+<h1>Exercício 1</h1>
+<h5> Calcule as horas trabalhadas do funcionário:</h5>
 
 <div class="row">
     <div class="col">

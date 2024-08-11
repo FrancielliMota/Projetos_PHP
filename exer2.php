@@ -2,10 +2,10 @@
 
 <?php require("cabecalho.php"); ?>
 
-<h1>Exercício 2</h1>
-
 <form action="exer2.php" method="POST">
 
+<h1>Exercício 2</h1>
+<h5> Calcule o salário semanal do funcionário:</h5>
 
 <div class="row">
 
